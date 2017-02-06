@@ -12,7 +12,7 @@ PKG_VERSION:=0.9.0
 PKG_RELEASE:=2
 
 PKG_SOURCE:=$(PKG_NAME)-$(PKG_VERSION).tar.gz
-PKG_SOURCE_URL:=http://www.lesbonscomptes.com/upmpdcli/downloads
+PKG_SOURCE_URL:=http://www.lesbonscomptes.com/upmpdcli/downloads/oldies
 PKG_MD5SUM:=0e7b86037f19ea3a08067409af6f6902
 PKG_MAINTAINER:=Petko Bordjukov <bordjukov@gmail.com>
 PKG_LICENSE:=GPL-2.0
